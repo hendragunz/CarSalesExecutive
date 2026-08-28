@@ -1,0 +1,6 @@
+{
+  "name": "XPeng Official Sales Dealership",
+  "description": "Premium authorized EV dealership website for XPeng vehicles with interactive models showcase, promotions, delivery testimonials, finance calculator, and full-featured CMS admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
